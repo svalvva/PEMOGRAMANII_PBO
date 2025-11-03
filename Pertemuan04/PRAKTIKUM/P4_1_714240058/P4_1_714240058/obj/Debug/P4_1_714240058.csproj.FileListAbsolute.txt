@@ -1,0 +1,8 @@
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\bin\Debug\P4_1_714240058.exe.config
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\bin\Debug\P4_1_714240058.exe
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\bin\Debug\P4_1_714240058.pdb
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\obj\Debug\P4_1_714240058.csproj.AssemblyReference.cache
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\obj\Debug\P4_1_714240058.csproj.CoreCompileInputs.cache
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\obj\Debug\P4_1_714240058.exe
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\obj\Debug\P4_1_714240058.pdb
+C:\Users\Syalwa Aliya\source\repos\P4_1_714240058\P4_1_714240058\obj\Debug\P4_1_714240058.exe.config

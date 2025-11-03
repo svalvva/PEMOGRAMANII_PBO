@@ -1,0 +1,15 @@
+14. Di kelas Product_714240058, field myType dideklarasikan sebagai protected, Field dengan status protected hanya dapat diakses dari dalam kelas itu sendiri atau oleh kelas turunannya, jadi ProductTest_714240058 tidak bisa mengakses myType karena bukan turunan dari Product_714240058
+
+19. Outputnya kosong karena field myType pada Product_714240058 tidak diberi nilai
+
+24. Karena pada line 15 MyType telah di berikan nilai DVD, sehingga outputnya adalah DVD
+myProduct.MyType = "DVD";
+
+
+II
+8. Tipe dan judul tidak muncul karena constructor kelas turunan (Book_123) tidak memanggil constructor kelas dasar (Product_123) yang bertugas menginisialisasi field myType dan myTitle
+
+12. Tipe dan judul karena constructor Book_123 telah diperbaiki untuk memanggil constructor kelas dasarnya menggunakan keyword base
+
+19. Constructor pada kelas DVD_123 hanya menerima dua parameter, public DVD_123(string title, string duration)
+jadi jika di buat seperti code pada gambar 19 maka compile akan error
