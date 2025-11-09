@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan04\\tugas\\p4_2_714240058\\p4_2_714240058\\premiumride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|solutionrelative:p4_2_714240058\\premiumride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan04\\tugas\\p4_2_714240058\\p4_2_714240058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|solutionrelative:p4_2_714240058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan04\\tugas\\p4_2_714240058\\p4_2_714240058\\carride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|solutionrelative:p4_2_714240058\\carride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan04\\tugas\\p4_2_714240058\\p4_2_714240058\\bikeride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|solutionrelative:p4_2_714240058\\bikeride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan04\\tugas\\p4_2_714240058\\p4_2_714240058\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883121A7-3586-472D-9801-45BED839EAA1}|P4_2_714240058\\P4_2_714240058.csproj|solutionrelative:p4_2_714240058\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumRide.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\PremiumRide.cs",
+              "RelativeDocumentMoniker": "P4_2_714240058\\PremiumRide.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\PremiumRide.cs",
+              "RelativeToolTip": "P4_2_714240058\\PremiumRide.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:38:53.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRide.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\CarRide.cs",
+              "RelativeDocumentMoniker": "P4_2_714240058\\CarRide.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\CarRide.cs",
+              "RelativeToolTip": "P4_2_714240058\\CarRide.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:37:45.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BikeRide.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\BikeRide.cs",
+              "RelativeDocumentMoniker": "P4_2_714240058\\BikeRide.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\BikeRide.cs",
+              "RelativeToolTip": "P4_2_714240058\\BikeRide.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:36:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RideService.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\RideService.cs",
+              "RelativeDocumentMoniker": "P4_2_714240058\\RideService.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\RideService.cs",
+              "RelativeToolTip": "P4_2_714240058\\RideService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:34:20.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\Program.cs",
+              "RelativeDocumentMoniker": "P4_2_714240058\\Program.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan04\\TUGAS\\P4_2_714240058\\P4_2_714240058\\Program.cs",
+              "RelativeToolTip": "P4_2_714240058\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:26:50.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
