@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan05\\praktikum\\p5_2_714240058\\p5_2_714240058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|solutionrelative:p5_2_714240058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan05\\praktikum\\p5_2_714240058\\p5_2_714240058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|solutionrelative:p5_2_714240058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan05\\praktikum\\p5_2_714240058\\p5_2_714240058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|solutionrelative:p5_2_714240058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan05\\praktikum\\p5_2_714240058\\p5_2_714240058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54A282F2-1B09-42BF-89C1-A57929E9E3AB}|P5_2_714240058\\P5_2_714240058.csproj|solutionrelative:p5_2_714240058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240058\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ChildForm.cs",
+              "RelativeToolTip": "P5_2_714240058\\ChildForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:03:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240058\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ChildForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714240058\\ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:42:50.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240058\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_714240058\\ParentForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:28:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240058\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan05\\PRAKTIKUM\\P5_2_714240058\\P5_2_714240058\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714240058\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:53:04.302Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
