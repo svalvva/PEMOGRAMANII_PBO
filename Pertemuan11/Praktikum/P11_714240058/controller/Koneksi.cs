@@ -64,5 +64,10 @@ namespace P11_714240058
             MySqlDataReader dr = cmd.ExecuteReader();
             return dr;
         }
+        public MySqlConnection GetConnection()
+        {
+            return kon;
+        }
+
     }
 }

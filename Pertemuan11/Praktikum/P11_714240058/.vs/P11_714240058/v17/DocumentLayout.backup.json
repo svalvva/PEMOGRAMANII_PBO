@@ -1,57 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\",
+  "WorkspaceRootPath": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|c:\\users\\syalwa aliya\\downloads\\pemogramman-2-pbo-main\\pemogramman-2-pbo-main\\pertemuan11\\pratikum\\p9_714240058\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:controller\\Nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\FormNilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\controller\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:controller\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\ParentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\ParentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\controller\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:controller\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\view\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\view\\formbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|c:\\users\\syalwa aliya\\onedrive\\codingan\\github\\pemogramanii_pbo\\pertemuan11\\praktikum\\p11_714240058\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P11_714240058.csproj|solutionrelative:model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\ParentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:controller\\Nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\FormNilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:view\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\model\\M_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1431327-60EA-46A9-8E6D-875DA3A9EF58}|P9_714240058.csproj|solutionrelative:model\\M_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,49 +134,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "M_nilai.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\model\\M_nilai.cs",
-              "RelativeDocumentMoniker": "model\\M_nilai.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\model\\M_nilai.cs",
-              "RelativeToolTip": "model\\M_nilai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "view\\FormBarang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:43:08.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormNilai.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs",
-              "RelativeDocumentMoniker": "view\\FormNilai.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs [Design]",
-              "RelativeToolTip": "view\\FormNilai.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:32:14.317Z",
+              "WhenOpened": "2025-12-28T16:24:53.491Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ParentForm.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\ParentForm.cs",
-              "RelativeDocumentMoniker": "view\\ParentForm.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\ParentForm.cs",
-              "RelativeToolTip": "view\\ParentForm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FormBarang.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormBarang.cs",
+              "RelativeToolTip": "view\\FormBarang.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:28:54.65Z",
+              "WhenOpened": "2025-12-28T16:30:53.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ParentForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\ParentForm.cs",
+              "Title": "FormTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormTransaksi.cs*",
+              "RelativeToolTip": "view\\FormTransaksi.cs*",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:15:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs",
+              "RelativeToolTip": "view\\FormNilai.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwHEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:10:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormTransaksi.cs [Design]*",
+              "RelativeToolTip": "view\\FormTransaksi.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:12:03.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransaksiController.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\TransaksiController.cs",
+              "RelativeDocumentMoniker": "controller\\TransaksiController.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\TransaksiController.cs",
+              "RelativeToolTip": "controller\\TransaksiController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:42:04.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:55:14.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs",
               "RelativeDocumentMoniker": "view\\ParentForm.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\ParentForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs",
+              "RelativeToolTip": "view\\ParentForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:54:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs [Design]",
               "RelativeToolTip": "view\\ParentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T06:27:22.085Z",
@@ -120,119 +248,247 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs",
-              "RelativeDocumentMoniker": "view\\Form1.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs",
-              "RelativeToolTip": "view\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:39:38.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Koneksi.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Koneksi.cs",
-              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Koneksi.cs",
-              "RelativeToolTip": "controller\\Koneksi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T06:57:14.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mahasiswa.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Mahasiswa.cs",
-              "RelativeDocumentMoniker": "controller\\Mahasiswa.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Mahasiswa.cs",
-              "RelativeToolTip": "controller\\Mahasiswa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:33:39.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormNilai.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs",
-              "RelativeDocumentMoniker": "view\\FormNilai.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs",
-              "RelativeToolTip": "view\\FormNilai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:33:43.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Nilai.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Nilai.cs",
-              "RelativeDocumentMoniker": "controller\\Nilai.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\controller\\Nilai.cs",
-              "RelativeToolTip": "controller\\Nilai.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:45:14.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Title": "BarangController.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\BarangController.cs",
+              "RelativeDocumentMoniker": "controller\\BarangController.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\BarangController.cs",
+              "RelativeToolTip": "controller\\BarangController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:39:30.836Z",
+              "WhenOpened": "2026-01-05T09:35:04.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs",
-              "RelativeDocumentMoniker": "view\\Form1.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs [Design]",
-              "RelativeToolTip": "view\\Form1.cs [Design]",
+              "Title": "FormTransaksi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormTransaksi.Designer.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.Designer.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormTransaksi.Designer.cs*",
+              "RelativeToolTip": "view\\FormTransaksi.Designer.cs*",
+              "ViewState": "AgIAABEBAAAAAAAAAAAawBgBAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:39:34.923Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "view\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.Designer.cs",
-              "RelativeToolTip": "view\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:39:12.214Z",
+              "WhenOpened": "2026-01-05T10:10:53.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:09:16.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs",
+              "RelativeToolTip": "view\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:10:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:00:31.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:39:30.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormBarang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormBarang.Designer.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.Designer.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormBarang.Designer.cs",
+              "RelativeToolTip": "view\\FormBarang.Designer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAawJgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:35:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:09:20.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "M_barang.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_barang.cs",
+              "RelativeDocumentMoniker": "model\\M_barang.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_barang.cs",
+              "RelativeToolTip": "model\\M_barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:01:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:32:14.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\ParentForm.cs",
+              "RelativeToolTip": "view\\ParentForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:28:54.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:39:34.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_nilai.cs",
+              "RelativeToolTip": "model\\M_nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:43:08.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.cs",
+              "RelativeToolTip": "view\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:39:38.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:57:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:33:39.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\FormNilai.cs",
+              "RelativeToolTip": "view\\FormNilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:33:43.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\controller\\Nilai.cs",
+              "RelativeToolTip": "controller\\Nilai.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:45:14.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "view\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "view\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:39:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "M_mahasiswa.cs",
-              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\model\\M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_mahasiswa.cs",
               "RelativeDocumentMoniker": "model\\M_mahasiswa.cs",
-              "ToolTip": "C:\\Users\\Syalwa Aliya\\Downloads\\PEMOGRAMMAN-2-PBO-main\\PEMOGRAMMAN-2-PBO-main\\Pertemuan11\\Pratikum\\P9_714240058\\model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Syalwa Aliya\\OneDrive\\CODINGAN\\Github\\PEMOGRAMANII_PBO\\Pertemuan11\\Praktikum\\P11_714240058\\model\\M_mahasiswa.cs",
               "RelativeToolTip": "model\\M_mahasiswa.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:28:40.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T06:28:40.978Z"
             }
           ]
         }

@@ -33,6 +33,9 @@
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataMahasiswaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataNilaiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tugasPraktikum11ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dataMasterBarangToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dataTransaksiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,10 +47,11 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.dataMahasiswaToolStripMenuItem,
-            this.dataNilaiToolStripMenuItem});
+            this.dataNilaiToolStripMenuItem,
+            this.tugasPraktikum11ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1200, 35);
+            this.menuStrip1.Size = new System.Drawing.Size(1200, 33);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -80,6 +84,29 @@
             this.dataNilaiToolStripMenuItem.Text = "Data Nilai";
             this.dataNilaiToolStripMenuItem.Click += new System.EventHandler(this.dataNilaiToolStripMenuItem_Click);
             // 
+            // tugasPraktikum11ToolStripMenuItem
+            // 
+            this.tugasPraktikum11ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.dataMasterBarangToolStripMenuItem,
+            this.dataTransaksiToolStripMenuItem});
+            this.tugasPraktikum11ToolStripMenuItem.Name = "tugasPraktikum11ToolStripMenuItem";
+            this.tugasPraktikum11ToolStripMenuItem.Size = new System.Drawing.Size(184, 29);
+            this.tugasPraktikum11ToolStripMenuItem.Text = "Tugas Praktikum 11";
+            // 
+            // dataMasterBarangToolStripMenuItem
+            // 
+            this.dataMasterBarangToolStripMenuItem.Name = "dataMasterBarangToolStripMenuItem";
+            this.dataMasterBarangToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.dataMasterBarangToolStripMenuItem.Text = "Data Master Barang";
+            this.dataMasterBarangToolStripMenuItem.Click += new System.EventHandler(this.dataMasterBarangToolStripMenuItem_Click);
+            // 
+            // dataTransaksiToolStripMenuItem
+            // 
+            this.dataTransaksiToolStripMenuItem.Name = "dataTransaksiToolStripMenuItem";
+            this.dataTransaksiToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.dataTransaksiToolStripMenuItem.Text = "Data Transaksi";
+            this.dataTransaksiToolStripMenuItem.Click += new System.EventHandler(this.dataTransaksiToolStripMenuItem_Click);
+            // 
             // ParentForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -105,5 +132,8 @@
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem dataMahasiswaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem dataNilaiToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tugasPraktikum11ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem dataMasterBarangToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem dataTransaksiToolStripMenuItem;
     }
 }
